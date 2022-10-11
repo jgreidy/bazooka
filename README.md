@@ -1,4 +1,4 @@
-# Bazooka
+# [Bazooka](https://jgreidy.github.io/bazooka/)
 
 Static web sites
 
